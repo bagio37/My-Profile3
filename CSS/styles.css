@@ -50,10 +50,9 @@ a:hover {
   padding: 100px 100px 50px;
   }
 .top-cloud {
-  position: relative;
-  left: 400px;
+  position: absolute;
+  right: 200px;
   top: 50px;
-  width: 20%;
 }
 .bottom-cloud {
   position: absolute;
