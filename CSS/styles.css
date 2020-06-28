@@ -47,7 +47,7 @@ a:hover {
 .top-container {
   background-color: #E4F9F5;
   position: relative;
-  padding: 100px;
+  padding: 100px 100% 50%;
   }
 .top-cloud {
   position: absolute;
@@ -59,7 +59,7 @@ a:hover {
   left: 200px;
 }
 .mountain {
-   position: absolute;
+   width: 50%;
 }
 
 .middle-container {
